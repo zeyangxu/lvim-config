@@ -1,0 +1,9 @@
+{
+  "unilog": {
+    "prefix": "unilog",
+    "body": [
+      "console.log('🦄 === [${1:fileName}] ${2:methodName}', {$3})"
+    ],
+    "description": "Log with unicorn"
+  }
+}
